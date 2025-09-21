@@ -1,2 +1,2 @@
 # deneme
-deneme
+deneme readme
